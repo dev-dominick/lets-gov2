@@ -1,0 +1,22 @@
+.formContainer {
+    margin-top: 5%;
+}
+
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: 3%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.inputsOne {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

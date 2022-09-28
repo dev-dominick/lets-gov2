@@ -1,0 +1,14 @@
+.copyright {
+  background-color: transparent;
+  position: fixed;
+  bottom: 0px;
+  width: 100vw;
+  text-align: center;
+  justify-content: baseline;
+  height: 60px;
+  margin-top: 50%;
+}
+
+.letters {
+  margin-top: 1%;
+}
